@@ -1,0 +1,54 @@
+[
+    {
+        "groupName": "PET-Enfermagem",
+        "category": "PET",
+        "type": "Conexão de saberes",
+        "creationDate": "2010",
+        "tutor": "Profª Marcela de Abreu Moniz",
+        "lattes": "http://lattes.cnpq.br/6337291798996641",
+        "contactEmail": "petuffenfermagem@gmail.com",
+        "website": "https://lnk.bio/asyd",
+        "instagram": "pet_enf",
+        "address": "Rua Recife, s/n - Campus de Rio das Ostras, Jardim Bela Vista, Rio das Ostras",
+        "campus": "Rio das Ostras"
+    },
+    {
+        "groupName": "PET-Farmácia Viva",
+        "category": "PET",
+        "type": "Conexão de saberes",
+        "creationDate": "2010",
+        "tutor": "Profª Thelma de Barros Machado",
+        "lattes": "http://lattes.cnpq.br/0278676646547071",
+        "contactEmail": "petfarmaciaviva@gmail.com",
+        "website": "https://petfarmaciaviva.wordpress.com/",
+        "instagram": "petfarmaciaviva",
+        "address": "Rua Dr. Mario Vianna, 523 - Santa Rosa, Niterói",
+        "campus": "Niterói"
+    },
+    {
+        "groupName": "PET-História",
+        "category": "PET",
+        "type": "Conexão de saberes",
+        "creationDate": "2010",
+        "tutor": "Profª Renata Vereza",
+        "lattes": "http://lattes.cnpq.br/1642988193944431",
+        "contactEmail": "pet.historia.uff@gmail.com",
+        "website": "https://pethistoriauff.carrd.co/",
+        "instagram": "pethistoriauff",
+        "address": "Rua Professor Marcos Waldemar de Freitas Reis, s/n, Bloco O - Campus do Gragoatá, São Domingos, Niterói",
+        "campus": "Niterói"
+    },
+    {
+        "groupName": "PET-Interdisciplinar (cursos de licenciatura)",
+        "category": "PET",
+        "type": "Conexão de saberes",
+        "creationDate": "2010",
+        "tutor": "Profª Mônica Vasconcellos de Oliveira Farias",
+        "lattes": "http://lattes.cnpq.br/3715055413703709",
+        "contactEmail": "petinter.ese@id.uff.br",
+        "website": "https://cafecompet.wordpress.com/",
+        "instagram": "petinter.uff",
+        "address": "Rua Professor Marcos Waldemar de Freitas Reis, s/n, Bloco D - Campus do Gragoatá, São Domingos, Niterói",
+        "campus": "Niterói"
+    }
+]
